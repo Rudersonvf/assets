@@ -28,6 +28,21 @@
                "name": "Front-end"
             }
          ]
+      },
+      {
+         "id": 3,
+         "name": "DevCep",
+         "about": "Site responsivo com consumo da api ViaCep.",
+         "description": "Trata-se de um site com design responsivo que consome a api ViaCep. Utiliza Java script para validação dos campos, tratamento de exceções e manipulação de DOM.",
+         "photo_url": "https://raw.githubusercontent.com/Rudersonvf/assets/main/devCep.png",
+         "git_link": "https://github.com/Rudersonvf/dev-cep",
+         "prod_link": "https://rudersonvfDevCep.netlify.app",
+         "categories": [
+            {
+               "id": 2,
+               "name": "Front-end"
+            }
+         ]
       }
    ]
 }
