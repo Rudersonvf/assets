@@ -3,14 +3,29 @@
       {
          "id": 1,
          "name": "CRUD de clientes",
-         "about": "Executa um back-end de uma aplicação simples, com operações de CRUD ",
-         "description": "Desafio do curso de desenvolvedor moderno administrado pela Dev Superior. Trata-se de um projeto que consiste em rodar um back-end de uma aplicação simples, com operações de CRUD na base de dados clientes e tratamento de excessões com respostas personalizadas. Projeto está configurado com ambiente de testes acessando o banco de dados H2 já com seeding, usa o Maven como gerenciador de dependências e o Java como linguagem. Para testes é usado o Postman.",
-         "photo_url": "https://raw.githubusercontent.com/Rudersonvf/assets/main/crudPost.png",
-         "how_to": "Pré-requisitos: JDK 17.<br>Clonar o repositorio para a maquina local e executar.<br>Para consultas utilizando o Postman confira o Readme no GitHub",
+         "about": "Executa um back-end de uma aplicação simples, com operações de CRUD",
+         "description": "Desafio do curso de desenvolvedor moderno administrado pela Dev Superior. Trata-se de um projeto que consiste em rodar um back-end de uma aplicação simples, com operações de CRUD na base de dados clientes e tratamento de exceções com respostas personalizadas. O projeto está configurado com ambiente de testes acessando o banco de dados H2 já com seeding, usa o Maven como gerenciador de dependências e o Java como linguagem. Para testes é usado o Postman.",
+         "photo_url": "https://raw.githubusercontent.com/Rudersonvf/assets/main/crud3.png",
+         "git_link": "https://github.com/Rudersonvf/DesafioCrudClientes",
          "categories": [
             {
                "id": 1,
                "name": "Back-end"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Portfólio React",
+         "about": "É este site que você está olhando agora!",
+         "description": "Tratas-e de um portfolio desenvolvido em React com Type Script juntamente com o Vite",
+         "photo_url": "https://raw.githubusercontent.com/Rudersonvf/assets/main/crudPost.png",
+         "git_link": "https://github.com/Rudersonvf/portfolio-react",
+         "prod_link": "https://rudersonvf.netlify.app",
+         "categories": [
+            {
+               "id": 2,
+               "name": "Front-end"
             }
          ]
       }
