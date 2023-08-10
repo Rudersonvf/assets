@@ -48,9 +48,7 @@
          "id": 4,
          "name": "RF Movie",
          "about": "Site responsivo em react com filtragem de uma lista de filmes.",
-         "description": "Trata-se de um projeto desenvolvido para fins de estudo e prática. Consiste em uma aplicação desenvolvida em React com Typescript
-com o objetivo de filtrar e ordenar uma lista de filmes de varias formas. Utiliza comunicação entre componentes por meio de eventos e estado global.
-O layout do projeto foi desenvolvido por mim, utilizando o Figma: https://www.figma.com/file/4BfznMsBXRh8ST4RNDarnZ/RF-Movie?type=design&node-id=0-1&mode=design",
+         "description": "Trata-se de um projeto desenvolvido para fins de estudo e prática. Consiste em uma aplicação desenvolvida em React com Typescriptcom o objetivo de filtrar e ordenar uma lista de filmes de varias formas. Utiliza comunicação entre componentes por meio de eventos e estado global.O layout do projeto foi desenvolvido por mim, utilizando o Figma: https://www.figma.com/file/4BfznMsBXRh8ST4RNDarnZ/RF-Movie?type=design&node-id=0-1&mode=design",
          "photo_url": "https://raw.githubusercontent.com/Rudersonvf/assets/main/rfmovie.jpeg",
          "git_link": "https://github.com/Rudersonvf/rf-movie",
          "prod_link": "https://rudersonvfrfmovie.netlify.app",
@@ -63,3 +61,4 @@ O layout do projeto foi desenvolvido por mim, utilizando o Figma: https://www.fi
       }
    ]
 }
+  
